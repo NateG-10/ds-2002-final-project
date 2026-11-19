@@ -1,0 +1,7 @@
+{
+  "url": "https://barttorvik.com/2027_team_results.csv",
+  "status_code": 200,
+  "content_type": "text/csv",
+  "pull_date_eastern": "2026-11-18",
+  "body_file": "torvik_2026-11-18.csv"
+}

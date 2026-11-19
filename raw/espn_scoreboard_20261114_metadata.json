@@ -1,0 +1,7 @@
+{
+  "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard?groups=2&dates=20261114&limit=200",
+  "status_code": 200,
+  "content_type": "application/json;charset=UTF-8",
+  "pull_date_eastern": "2026-11-18",
+  "body_file": "espn_scoreboard_20261114.json"
+}
